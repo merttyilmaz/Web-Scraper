@@ -1,0 +1,961 @@
+[
+  {
+    "countryName": "American Samoa",
+    "bankingInfo": {
+      "currency": "USD",
+      "bank sort code": "9 digits (called ABA)",
+      "account number": "Maximum 17 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Argentina",
+    "bankingInfo": {
+      "currency": "ARS",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "22 characters",
+      "personal identification (id)": "11 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Australia",
+    "bankingInfo": {
+      "currency": "AUD",
+      "swift/bic code": "11 characters",
+      "bank sort code": "6 digits (called BSB)",
+      "post office id": "6 digits",
+      "building society code": "6 digits",
+      "account number": "Maximum 9 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Austria",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or11 characters",
+      "account number (iban)": "20 characters"
+    }
+  },
+  {
+    "countryName": "Bahamas",
+    "bankingInfo": {
+      "currency": "BSD",
+      "local bank and branch code": " 8 digits",
+      "account number": "maximum 10 digits",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Bangladesh",
+    "bankingInfo": {
+      "currency": "BDT",
+      "bank sort code": "9 digits",
+      "financial institution (fi) account number": "Max length 20 digits",
+      "beneficiary name and address": "Mandatory",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Barbados",
+    "bankingInfo": {
+      "currency": "BBD",
+      "swift/bic code": "8 or 11 characters",
+      "bank sort code": "8 digits",
+      "account number": "13 digits",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Belgium",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or11 characters",
+      "account number (iban)": "16 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Benin",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "bankingInfo": {
+      "currency": "BAM",
+      "fi acocunt number": "Must be IBAN number",
+      "swift/bic code": "8 or 11 character code",
+      "beneficiary name and address": "Mandatory",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "iban": "mandatory length is 20 digits example"
+    }
+  },
+  {
+    "countryName": "Brazil",
+    "bankingInfo": {
+      "currency": "BRL",
+      "local bank and branch code": " 7 or 8 digits",
+      "account number (iban)": "maximum 20 characters",
+      "account type": "Select Savings or Chequing",
+      "tax id": " must be included in the other field under Part A of the Direct deposit enrollment form",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "disclaimer": "For payments to individuals, tax ID number (11 digits) called CPF (Cadastro de Pessoas Fisicas) is required"
+    }
+  },
+  {
+    "countryName": "Bulgaria",
+    "bankingInfo": {
+      "currency": "BGN",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "22 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Burkina Faso",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "maximum 24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Cameroon",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Central African Republic",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Chad",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Chile",
+    "bankingInfo": {
+      "currency": "CLP",
+      "bank sort code": "3 digits",
+      "account number": "2 to 20 characters",
+      "account type": "Select Savings or Chequing",
+      "tax id of payee": " (8-9 characters) called RUC – ROL UNICO Tributario is required",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Congo, Republic of",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Costa Rica",
+    "bankingInfo": {
+      "currency": "CRC",
+      "bank code": " not required as account number contains bank code as first 3 digits of account number Codigo Entidad",
+      "account number": "17 characters",
+      "identity number": " 10 or 12 digits called Cedula Juridica (must be included in the Other field under Part A of the Direct deposit enrolment form)",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Côte d'Ivoire",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Croatia",
+    "bankingInfo": {
+      "currency": "HRK",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "21 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Cyprus",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "28 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Czech Republic",
+    "bankingInfo": {
+      "currency": "CZK",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "disclaimer": "Effective December 31, 2020, cheques/drafts will no longer be available. Please sign up for Direct Deposit"
+    }
+  },
+  {
+    "countryName": "Denmark",
+    "bankingInfo": {
+      "currency": "DKK",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "18 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Dominican Republic",
+    "bankingInfo": {
+      "currency": "DOP",
+      "bank sort code": "8 digits",
+      "account number": "maximum 20 digits",
+      "account type": "Select chequing or savings",
+      "personal id": "code called Cedula Juridica (11 digits) or passport number is required",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Egypt",
+    "bankingInfo": {
+      "currency": "EGP",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "maximum 34 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "account  number (iban)": "29 characters",
+      "disclaimer": "As of November 15, 2020 transactions  without an IBAN will be rejected."
+    }
+  },
+  {
+    "countryName": "Equatorial Guinea",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Estonia",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "20 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Finland",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "18 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "France",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "27 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Gabon",
+    "bankingInfo": {
+      "currency": "XAF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Germany",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "22 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Ghana",
+    "bankingInfo": {
+      "currency": "GHS",
+      "bank code": "6 digits",
+      "account number": "maximum 34 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Great Britain",
+    "bankingInfo": {
+      "currency": "GBP",
+      "swift/bic code": "8 or 11 characters",
+      "bank sort code": "6 digits",
+      "postal account": " 6 digits",
+      "building society": "6 digits",
+      "account number (iban)": "maximum 34 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Greece",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "27 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Guam",
+    "bankingInfo": {
+      "currency": "USD",
+      "bank sort code": "9 digits (called ABA)",
+      "account number": "maximum 17 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Guernsey",
+    "bankingInfo": {
+      "disclaimer": "See Great Britain for banking information"
+    }
+  },
+  {
+    "countryName": "Guinea-Bissau",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Hong Kong",
+    "bankingInfo": {
+      "currency": "HKD",
+      "local bank sort code": "6 digits",
+      "account number": "1-10 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Hungary",
+    "bankingInfo": {
+      "currency": "HUF",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "28 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "India",
+    "bankingInfo": {
+      "currency": "INR",
+      "bank sort code": "Upper case 11 characters (IFSC Indian Financial System Code) (4 alpha characters followed by 7 alpha characters or digits)",
+      "account number": "maximum 34 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Indonesia",
+    "bankingInfo": {
+      "currency": "IDR",
+      "bank sort code": "7 digits",
+      "account number": "maximum 16 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Ireland",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "22 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Isle of Man",
+    "bankingInfo": "See Great Britain for banking information"
+  },
+  {
+    "countryName": "Israel",
+    "bankingInfo": {
+      "currency": "ILS",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "disclaimer": " National Identity Number of payee (must be included in the Other field under Part A of the Direct deposit enrolment form) 9 digits"
+    }
+  },
+  {
+    "countryName": "Italy",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "27 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Jamaica",
+    "bankingInfo": {
+      "currency": "JMD",
+      "bank/branch code": "8 digits",
+      "account number": "maximum 25 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Japan",
+    "bankingInfo": {
+      "currency": "JPY",
+      "bank sort code": "7 digits",
+      "account number": "7 digits",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "local telephone number": ""
+    }
+  },
+  {
+    "countryName": "Jersey Island",
+    "bankingInfo": {
+      "disclaimer": "See Great Britain for banking information"
+    }
+  },
+  {
+    "countryName": "Kenya",
+    "bankingInfo": {
+      "currency": "KES",
+      "bank sort code": "5 digits",
+      "account number": "maximum 35 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Latvia",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "21 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Liechtenstein",
+    "bankingInfo": {
+      "currency": "CHF",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "21 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Lithuania",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "20 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Luxembourg",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "20 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Malaysia",
+    "bankingInfo": {
+      "currency": "MYR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "maximum 20 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Mali",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "maximum 24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Malta",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "31 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Mexico",
+    "bankingInfo": {
+      "currency": "MXN",
+      "swift/bic code": "8 or 11 characters",
+      "account number (clave bancaria estandarizada (clabe))": " 18 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Monaco",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "27 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Morocco",
+    "bankingInfo": {
+      "currency": "MAD",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Netherlands",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "18 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "New Zealand",
+    "bankingInfo": {
+      "currency": "NZD",
+      "bank sort code": "6 digits (called BSB)",
+      "account number": " 10 digits (a 7 digit account number with 3 digit suffix zero filled from the left)",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "disclaimer": "Effective December 31, 2020, cheques/drafts will no longer be available. Please sign up for Direct Deposit"
+    }
+  },
+  {
+    "countryName": "Niger",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Nigeria",
+    "bankingInfo": {
+      "currency": "NGN",
+      "bank sort code or outing number": "9 digits",
+      "account number": "10 digits (Nigeria Uniform Bank Account Number (NUBAN) type format)",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Norway",
+    "bankingInfo": {
+      "currency": "NOK",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "15 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Pakistan",
+    "bankingInfo": {
+      "currency": "PKR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "other (tax id)": "13 digit Computerized National Identity Card (CNIC)"
+    }
+  },
+  {
+    "countryName": "Peru",
+    "bankingInfo": {
+      "currency": "PEN",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "20 characters in CCI (Codigo de Cuenta Interbancario) format",
+      "tax id of payee": " (11 digits, RUC – Registro Unico de Contribuyente) is required",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "disclaimer": " Tax ID of payee (must be included in the Other field under Part A of the Direct deposit enrolment form)"
+    }
+  },
+  {
+    "countryName": "Philippines",
+    "bankingInfo": {
+      "currency": "PHP",
+      "local bank routing symbol transit numbers (brstn) sort code": "9 digits (starts with a mandatory zero)",
+      "account number": "maximum 16 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Poland",
+    "bankingInfo": {
+      "currency": "PLN",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "28 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Portugal",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "25 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Puerto Rico",
+    "bankingInfo": {
+      "currency": "USD",
+      "bank sort code": "9 digits (called ABA)",
+      "account number": "maximum 17 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Romania",
+    "bankingInfo": {
+      "currency": "RON",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "bankingInfo": {
+      "currency": "SAR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Senegal",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Singapore",
+    "bankingInfo": {
+      "currency": "SGD",
+      "local mas electronic payment system (meps) bank sort code": "7 digits",
+      "account number (iban)": "maximum 11 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Slovakia",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Slovenia",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "19 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "South Africa",
+    "bankingInfo": {
+      "currency": "ZAR",
+      "bank/branch code": "6 digits followed by \"1\" for Chequing account or \"2\" for Savings account.",
+      "account number": "maximum 11 digits",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Spain",
+    "bankingInfo": {
+      "currency": "EUR",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Sri Lanka",
+    "bankingInfo": {
+      "currency": "LKR",
+      "bank sort code": "7 digits",
+      "account number": "maximum 16 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Sweden",
+    "bankingInfo": {
+      "currency": "SEK",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Switzerland",
+    "bankingInfo": {
+      "currency": "CHF",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "21 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Tanzania, United Republic of",
+    "bankingInfo": {
+      "currency": "TZS",
+      "bank sort code": "6 digits",
+      "account number": "maximum 35 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Thailand",
+    "bankingInfo": {
+      "currency": "THB",
+      "bank/branch code": " 7 digits",
+      "account number": "maximum 34 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Togo",
+    "bankingInfo": {
+      "currency": "XOF",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "24 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "bankingInfo": {
+      "currency": "TTD",
+      "bank routing number": " 9 digits",
+      "account number": "maximum 17 digits",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Turkey",
+    "bankingInfo": {
+      "currency": "TRY",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "26 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Uganda",
+    "bankingInfo": {
+      "currency": "UGX",
+      "bank sort code": "6 digits",
+      "swift/bic code": "8 or 11 characters",
+      "account number": "maximum 35 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "bankingInfo": {
+      "currency": "AED",
+      "swift/bic code": "8 or 11 characters",
+      "account number (iban)": "23 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "United States",
+    "bankingInfo": {
+      "currency": "USD",
+      "bank sort code": "9 digits (called ABA)",
+      "account number": "maximum 17 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  },
+  {
+    "countryName": "Uruguay",
+    "bankingInfo": {
+      "currency": "UYU",
+      "bank sort code": "6 digits",
+      "fi account number": "1-35 characters;",
+      "alphabetical characters allowed ": "Yes",
+      "beneficiary name (22 characters) and address": "Mandatory",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "FI account type [chequing (C) or savings (S)]": "C/S",
+      "personal id": "8-12 for the Tax ID"
+    }
+  },
+  {
+    "countryName": "Vietnam",
+    "bankingInfo": {
+      "currency": "VND",
+      "swift/bic code": "11 characters",
+      "account number (iban)": "4 characters",
+      "Full Bank Name": "",
+      "Full Bank Adress": "",
+      "structure of beneficiary name": "surname + middle name + first name"
+    }
+  },
+  {
+    "countryName": "Virgin Islands, U.S.",
+    "bankingInfo": {
+      "currency": "USD",
+      "bank sort code": "9 digits (called ABA)",
+      "account number": "maximum 17 characters",
+      "account number (iban)": "maximum 17 characters",
+      "account type": "Select Savings or Chequing",
+      "Full Bank Name": "",
+      "Full Bank Adress": ""
+    }
+  }
+]
